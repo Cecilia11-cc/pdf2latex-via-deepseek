@@ -26,7 +26,7 @@
 
 ```bash
 pip install pdfplumber openai python-dotenv
-
+```
 ## 🔧 配置与使用
 
 ### 1. 获取 DeepSeek API Key
@@ -77,8 +77,8 @@ python pdf2latex.py
 ### 6. 编译 LaTeX 文件
 📥 LaTeX 环境推荐：
 
-- 本地安装：TeX Live（Windows/Linux/Mac 通用，免费完整发行版）
-- 在线编辑：Overleaf（注册即用，无需安装，支持中文，团队协作方便）
+- 本地安装：TeX Live（Windows/Linux/Mac 通用，免费完整发行版）https://www.tug.org/texlive/
+- 在线编辑：Overleaf（注册即用，无需安装，支持中文，团队协作方便）https://www.overleaf.com/
 
 打开 .tex 文件，用上述任一工具编译即可生成 PDF。
 
